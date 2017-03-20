@@ -58,9 +58,7 @@ function s1(){
 				<b>IMDb:</b> ${res.imdbRating}<br>
 				</div>
 				<br>
-				<div id="s1">
-				<input type="button" onclick="document.location.href="/" value="HOME" name="button" class="btn">
-				</div>
+				
 		`;
 		$('#app').html(html);
 
@@ -96,9 +94,6 @@ function s2(){
 				<b>IMDb:</b> ${res.imdbRating}<br>
 				</div>
 				<br>
-				<div id="s2">
-				<input type="button" onclick="document.location.href="/" value="HOME" name="button" class="btn">
-				</div>
 		`;
 		$('#app').html(html);
 
@@ -134,9 +129,6 @@ function s3(){
 				<b>IMDb:</b> ${res.imdbRating}<br>
 				</div>
 				<br>
-				<div id="s3">
-				<input type="button" onclick="document.location.href="/" value="HOME" name="button" class="btn">
-				</div>
 		`;
 		$('#app').html(html);
 
@@ -172,9 +164,6 @@ function s4(){
 				<b>IMDb:</b> ${res.imdbRating}<br>
 				</div>
 				<br>
-				<div id="s4">
-				<input type="button" onclick="document.location.href="/" value="HOME" name="button" class="btn">
-				</div>
 		`;
 		$('#app').html(html);
 
@@ -210,9 +199,6 @@ function s5(){
 				<b>IMDb:</b> ${res.imdbRating}<br>
 				</div>
 				<br>
-				<div id="s5">
-				<input type="button" onclick="document.location.href="/" value="HOME" name="button" class="btn">
-				</div>
 		`;
 		$('#app').html(html);
 
@@ -249,8 +235,6 @@ function s6(){
 				</div>
 				<br>
 				<div id="s6">
-				<input type="button" onclick="document.location.href="/" value="HOME" name="button" class="btn">
-				</div>
 		`;
 		$('#app').html(html);
 
