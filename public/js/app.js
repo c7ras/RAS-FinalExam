@@ -1,6 +1,6 @@
 $('#app').html(`
 <div class="preloader">
-<img src="../public/img/orb.ico"><br>
+<img src="img/orb.ico"><br>
     <span></span>
     <span></span>
     <span></span>
@@ -15,7 +15,7 @@ setTimeout(function(){	//**preloader to wait 0.7secs to load the inside the body
 	
 	$('#app').html(`
 		<div id="home"><br><br><br><br><br>
-		<br><img src="../public/img/REbanner.jpg" class="img"></img><br>
+		<br><img src="img/REbanner.jpg" class="img"></img><br>
 		<input type="button" onclick="s1();" value="Resident Evil" name="button"  class="btn">
 		<input type="button" onclick="s2();" value="Apocalypse" name="button"  class="btn"> 
 		<input type="button" onclick="s3();" value="Extinction" name="button"  class="btn"> 
@@ -36,7 +36,7 @@ function s1(){
 		console.log(res);
 		let html = `
 			<div id="home">
-			<br><img src="../public/img/REbanner.jpg" class="img"></img><br>
+			<br><img src="img/REbanner.jpg" class="img"></img><br>
 			<input type="button" onclick="s1();" value="Resident Evil" name="button"  class="btn">
 			<input type="button" onclick="s2();" value="Apocalypse" name="button"  class="btn"> 
 			<input type="button" onclick="s3();" value="Extinction" name="button"  class="btn"> 
@@ -74,7 +74,7 @@ function s2(){
 		console.log(res);
 		let html = `
 			<div id="home">
-			<br><img src="../public/img/REbanner.jpg" class="img"></img><br>
+			<br><img src="img/REbanner.jpg" class="img"></img><br>
 			<input type="button" onclick="s1();" value="Resident Evil" name="button"  class="btn">
 			<input type="button" onclick="s2();" value="Apocalypse" name="button"  class="btn"> 
 			<input type="button" onclick="s3();" value="Extinction" name="button"  class="btn"> 
@@ -112,7 +112,7 @@ function s3(){
 		console.log(res);
 		let html = `
 			<div id="home">
-			<br><img src="../public/img/REbanner.jpg" class="img"></img><br>
+			<br><img src="img/REbanner.jpg" class="img"></img><br>
 			<input type="button" onclick="s1();" value="Resident Evil" name="button"  class="btn">
 			<input type="button" onclick="s2();" value="Apocalypse" name="button"  class="btn"> 
 			<input type="button" onclick="s3();" value="Extinction" name="button"  class="btn"> 
@@ -150,7 +150,7 @@ function s4(){
 		console.log(res);
 		let html = `
 			<div id="home">
-			<br><img src="../public/img/REbanner.jpg" class="img"></img><br>
+			<br><img src="img/REbanner.jpg" class="img"></img><br>
 			<input type="button" onclick="s1();" value="Resident Evil" name="button"  class="btn">
 			<input type="button" onclick="s2();" value="Apocalypse" name="button"  class="btn"> 
 			<input type="button" onclick="s3();" value="Extinction" name="button"  class="btn"> 
@@ -188,7 +188,7 @@ function s5(){
 		console.log(res);
 		let html = `
 			<div id="home">
-			<br><img src="../public/img/REbanner.jpg" class="img"></img><br>
+			<br><img src="img/REbanner.jpg" class="img"></img><br>
 			<input type="button" onclick="s1();" value="Resident Evil" name="button"  class="btn">
 			<input type="button" onclick="s2();" value="Apocalypse" name="button"  class="btn"> 
 			<input type="button" onclick="s3();" value="Extinction" name="button"  class="btn"> 
@@ -226,7 +226,7 @@ function s6(){
 		console.log(res);
 		let html = `
 			<div id="home">
-			<br><img src="../public/img/REbanner.jpg" class="img"></img><br>
+			<br><img src="img/REbanner.jpg" class="img"></img><br>
 			<input type="button" onclick="s1();" value="Resident Evil" name="button"  class="btn">
 			<input type="button" onclick="s2();" value="Apocalypse" name="button"  class="btn"> 
 			<input type="button" onclick="s3();" value="Extinction" name="button"  class="btn"> 
