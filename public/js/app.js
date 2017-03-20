@@ -59,7 +59,7 @@ function s1(){
 				</div>
 				<br>
 				<div id="s1">
-				<input type="button" onclick="document.location.href='app.html';" value="HOME" name="button" class="btn">
+				<input type="button" onclick="document.location.href="/" value="HOME" name="button" class="btn">
 				</div>
 		`;
 		$('#app').html(html);
@@ -97,7 +97,7 @@ function s2(){
 				</div>
 				<br>
 				<div id="s2">
-				<input type="button" onclick="document.location.href='app.html';" value="HOME" name="button" class="btn">
+				<input type="button" onclick="document.location.href="/" value="HOME" name="button" class="btn">
 				</div>
 		`;
 		$('#app').html(html);
@@ -135,7 +135,7 @@ function s3(){
 				</div>
 				<br>
 				<div id="s3">
-				<input type="button" onclick="document.location.href='app.html';" value="HOME" name="button" class="btn">
+				<input type="button" onclick="document.location.href="/" value="HOME" name="button" class="btn">
 				</div>
 		`;
 		$('#app').html(html);
@@ -173,7 +173,7 @@ function s4(){
 				</div>
 				<br>
 				<div id="s4">
-				<input type="button" onclick="document.location.href='app.html';" value="HOME" name="button" class="btn">
+				<input type="button" onclick="document.location.href="/" value="HOME" name="button" class="btn">
 				</div>
 		`;
 		$('#app').html(html);
@@ -211,7 +211,7 @@ function s5(){
 				</div>
 				<br>
 				<div id="s5">
-				<input type="button" onclick="document.location.href='app.html';" value="HOME" name="button" class="btn">
+				<input type="button" onclick="document.location.href="/" value="HOME" name="button" class="btn">
 				</div>
 		`;
 		$('#app').html(html);
@@ -249,7 +249,7 @@ function s6(){
 				</div>
 				<br>
 				<div id="s6">
-				<input type="button" onclick="document.location.href='app.html';" value="HOME" name="button" class="btn">
+				<input type="button" onclick="document.location.href="/" value="HOME" name="button" class="btn">
 				</div>
 		`;
 		$('#app').html(html);
