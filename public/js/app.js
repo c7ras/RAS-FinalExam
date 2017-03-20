@@ -26,7 +26,7 @@ setTimeout(function(){	//**preloader to wait 0.7secs to load the inside the body
 		</div>
 	`);
 
-},7777);
+},13333);
 
 function s1(){
 	$.ajax({
